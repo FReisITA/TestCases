@@ -39,6 +39,8 @@ def main():
 
     test_list = []
 
+    print 'aloha'
+
     ##########################
     ### Compressible Euler ###
     ##########################
